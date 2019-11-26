@@ -1,0 +1,23 @@
+Means: 
+32.0953
+75.6078
+
+3. Compute the values for the covariance matrix.
+Covariance matrix: 
+137.181 46.8283
+46.8283 26.2925
+
+1. What are the Eigenvalues for the principal components 1 and 2?
+Eigenvalue for principal component 1: 154.311
+Eigenvalue for principal component 2: 9.16296
+
+2. What are the Eigenvectors for the principal components 1 and 2 (showing July and January component values for each)?
+Eigenvector for principal component 1: 0 0.343532
+Eigenvector for principal component 2: -0.343532 0.939141
+
+4. What is the total variance?
+Total variance: 163.474
+
+5. What proportion (as a percentage) of total variance do principal components 1 and 2 "explain"?
+Percentage of total variance that principal component 1 explains: 94.3948%
+Percentage of total variance that principal component 2 explains: 5.60516%
